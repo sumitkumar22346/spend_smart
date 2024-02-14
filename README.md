@@ -36,7 +36,7 @@ Welcome to Spend Smart, your go-to Android app for efficiently managing and trac
 If you encounter any issues or have suggestions for improvement, please contact our support team at sk3063636@gmail.com We appreciate your feedback as we strive to make Spend Smart the best money management app for you.
 
 
-
+**PHOTOS**
 
 ![WhatsApp Image 2024-02-14 at 6 15 09 PM (1)](https://github.com/sumitkumar22346/spend_smart/assets/121286599/b772d26d-8bcc-4fdb-bbb8-49156888b852)
 ![WhatsApp Image 2024-02-14 at 6 15 09 PM](https://github.com/sumitkumar22346/spend_smart/assets/121286599/58f12029-ff31-4a8f-9c96-4046375c4811)
